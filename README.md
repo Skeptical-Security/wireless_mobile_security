@@ -1,6 +1,6 @@
 # Wireless and mobile Security
 
-Practical guide to introduce wireless and mobile technologies, and their vulnerabilities 🧢
+Practical guide to introduce wireless and mobile technologies, and their vulnerabilities
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Skeptical-Security/wireless_mobile_security?label=last%20update%3A)
 
